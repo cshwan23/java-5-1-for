@@ -2,7 +2,7 @@
 반복문 for
 
 
-ge com.daum.erp;
+	package com.daum.erp;
 
 	public class Test_06 {
  
